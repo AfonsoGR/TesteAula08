@@ -6,7 +6,7 @@ namespace Initial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("i await death ;)");
         }
     }
 }
